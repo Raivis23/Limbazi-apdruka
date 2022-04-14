@@ -198,6 +198,25 @@ top: 50%;
 left: 50%;
 transform: translate(-50%, -50%)}
 
+
+.back
+{text-decoration: none;
+color:black}  
+
+.arrow2 {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    margin-left:15px;
+    margin-top:15px
+  }
+
+  .left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+  }
+
 .title
 {font-family:Arial,Helvetica,sans-serif;
 margin-left:30px;
